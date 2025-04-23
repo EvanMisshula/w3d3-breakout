@@ -14,5 +14,4 @@ different types of input.
 
 - `sort_utils.py`: Functions for Quick Sort and Merge Sort
 - `timing_experiment.py`: CLI script to run sort comparisons
--  First run the timing experiment by typing ~python -m timing experiment~ at the terminal (leave off the .py). Then play with the inputs and observe the
-results. Were they what you expected? Why?
+-  First run the timing experiment by typing ```python -m timing experiment``` at the terminal (leave off the .py). Then play with the inputs and observe the results. Were they what you expected? Why?
